@@ -21,8 +21,4 @@ This project was developed based on concepts learned from a YouTube tutorial.
 ![Prediction Example 1](movie_recomendation.png)
 
 
-## Usage
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/shgu233/movie-recommendation-system.git
