@@ -18,7 +18,7 @@ This project was developed based on concepts learned from a YouTube tutorial.
 
 ## Screenshots
 
-![Prediction Example 1]()
+![Prediction Example 1](movie_recomendation.png)
 
 
 ## Usage
